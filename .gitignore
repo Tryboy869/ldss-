@@ -1,0 +1,41 @@
+# ========================================
+# LDSS - GIT IGNORE
+# ========================================
+
+# ========== NODE ==========
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ========== ENVIRONNEMENT ==========
+.env
+.env.local
+.env.production
+
+# ========== EDITOR ==========
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========== OS ==========
+.DS_Store
+Thumbs.db
+
+# ========== LOGS ==========
+logs/
+*.log
+
+# ========== BUILD ==========
+dist/
+build/
+
+# ========== TEMP ==========
+tmp/
+temp/
+
+# ========== COVERAGE ==========
+coverage/
+.nyc_output/
