@@ -94,7 +94,7 @@ Total: ~5ms ⚡
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/ldss-mvp.git
+git clone https://github.com/Tryboy869/ldss-mvp.git
 cd ldss-mvp
 npm install
 ```
@@ -419,7 +419,7 @@ ldss-mvp/
 
 ### Documentation
 
-- **GitHub** : https://github.com/yourusername/ldss-mvp
+- **GitHub** : https://github.com/Tryboy869/ldss-mvp
 - **Docs** : https://ldss-docs.dev (TODO)
 
 ### Contact
