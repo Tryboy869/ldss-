@@ -1,0 +1,33 @@
+{
+  "name": "ldss-mvp",
+  "version": "1.0.0",
+  "description": "LDSS - Local Distributed Storage System avec architecture hybride",
+  "type": "module",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js",
+    "dev": "node --watch api.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ldss",
+    "local-storage",
+    "distributed-storage",
+    "hybrid-storage",
+    "turso",
+    "nexus-axion"
+  ],
+  "author": "Anzize Daouda <anzizdaouda0@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "@libsql/client": "^0.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
